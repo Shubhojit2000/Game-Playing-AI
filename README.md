@@ -10,7 +10,6 @@ Players alternate turns, placing their colored pieces on empty cells of the boar
 - Bridge – A continuous chain connecting any two of the six corners.
 - Fork – A chain connecting three different edges (edges do not include corners).
 - Ring – A closed loop of pieces enclosing at least one cell (can be empty or occupied).
-![Alt Text](GameRules.png)
 
 ---
 
